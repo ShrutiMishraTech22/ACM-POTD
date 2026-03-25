@@ -6,6 +6,8 @@ Initialize xor with array length and loop from 0 to n-1
 At each step: xor = xor ^ i ^ nums[i]
 All matching numbers cancel out and the remaining value in xor is the missing number
 
+Time complexity: O(n)
+
 SOLUTION: 
 <img width="1914" height="880" alt="image" src="https://github.com/user-attachments/assets/a07b144f-5e89-4abe-88e1-1bbc5d2449a2" />
 
