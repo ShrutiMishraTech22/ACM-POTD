@@ -16,5 +16,6 @@ Time Complexity:
 O(n²)
 
 SCREENSHOT:
-<img width="1905" height="864" alt="image" src="https://github.com/user-attachments/assets/1c893685-f1aa-4cfe-9bdc-ab36743e2ae4" />
+<img width="1911" height="858" alt="image" src="https://github.com/user-attachments/assets/7561f946-8e6c-4548-bae9-4a7df4340317" />
+
 
